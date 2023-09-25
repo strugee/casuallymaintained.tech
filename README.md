@@ -1,7 +1,11 @@
-# No Maintenance Intended
+# Casual Maintenance Intended
 
-Tell people your code is open source, but not actively maintained.
+Tell people your code is open source, but only vaguely maintained.
 
 Add a shiny badge like this to your project:
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![Casual Maintenance Intended](http://casuallymaintained.tech/badge.svg)](https://casuallymaintained.tech/)
+
+## Credit
+
+This website is based on, and inspired by, https://unmaintained.tech/.
